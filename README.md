@@ -23,7 +23,7 @@
 ## 👤 Me
 
 - 🔎 **Known as:** Krunalsinh Parmar
-- 🎓 **Currently:** BE Computer Science & Engineering (2nd Semester) at The Maharaj Sayajirao University of Baroda
+- 🎓 **Currently:** BE Computer Science & Engineering (2nd year, 1st semester) at The Maharaj Sayajirao University of Baroda
 - 💻 **Programming in:** C, C++, Java
 - 🧩 **Currently learning:** Data Structures & Algorithms — solving problems on LeetCode and GeeksforGeeks
 - ⭐ **Goal:** Becoming a strong Software Engineer, one problem at a time
